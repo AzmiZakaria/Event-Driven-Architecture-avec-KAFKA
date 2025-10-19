@@ -28,3 +28,5 @@
 ### Service Data Analytics Real Time Stream Processing KAFKA
 #### Fonction KStream
 ![alt text](images/function.png)
+#### Analytics endpoint
+![alt text](images/analytics.png)
