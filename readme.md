@@ -14,3 +14,7 @@
 
 ### Service Producer KAFKA via RestController
 ![alt text](images/rest_controller.png)
+
+### Service Consumer KAFKA
+![alt text](images/consumer.png)
+![alt text](images/consumer_result.png)
