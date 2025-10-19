@@ -20,7 +20,11 @@
 ![alt text](images/consumer_result.png)
 
 ### Service Supplier KAFKA
-#### properties ( avec un delay to 5s )
+#### Properties ( avec un delay to 5s )
 ![alt text](images/app_proprties.png)
-#### resultat dans consumer A2
+#### Resultat dans consumer A2
 ![alt text](images/supplier.png)
+
+### Service Data Analytics Real Time Stream Processing KAFKA
+#### Fonction KStream
+![alt text](images/function.png)
