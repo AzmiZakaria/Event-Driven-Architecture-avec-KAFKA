@@ -30,3 +30,7 @@
 ![alt text](images/function.png)
 #### Analytics endpoint
 ![alt text](images/analytics.png)
+
+#### Page index 
+![alt text](images/html_index.png)
+
