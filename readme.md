@@ -18,3 +18,9 @@
 ### Service Consumer KAFKA
 ![alt text](images/consumer.png)
 ![alt text](images/consumer_result.png)
+
+### Service Supplier KAFKA
+#### properties ( avec un delay to 5s )
+![alt text](images/app_proprties.png)
+#### resultat dans consumer A2
+![alt text](images/supplier.png)
