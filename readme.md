@@ -8,3 +8,9 @@
 
 ### Tester avec Kafka-console-producer et kafka-console-consumer
 ![alt text](images/test_message.png)
+
+
+## KAFKA et Stpring Cloud Streams
+
+### Service Producer KAFKA via RestController
+![alt text](images/rest_controller.png)
